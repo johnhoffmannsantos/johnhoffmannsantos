@@ -58,12 +58,3 @@ Bacharel em Ciência da Computação, possuo uma forte visão de produto (ex-fun
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=johnhoffmannsantos&show_icons=true&theme=radical&hide_border=true" alt="John's GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=johnhoffmannsantos&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
